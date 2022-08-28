@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "387007574845",
+    "project_id": "penjual-500c2",
+    "storage_bucket": "penjual-500c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387007574845:android:2a0c39d4d2de3f135bcb54",
+        "android_client_info": {
+          "package_name": "com.epasar.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387007574845-djoumac0bj10hsvsr30iando7uhrqlmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa8L76wE2UI1IO7QZAwnLtmWb190oRyVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387007574845-djoumac0bj10hsvsr30iando7uhrqlmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387007574845:android:f4bc11cd4efa53455bcb54",
+        "android_client_info": {
+          "package_name": "com.epasar.penjual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387007574845-djoumac0bj10hsvsr30iando7uhrqlmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa8L76wE2UI1IO7QZAwnLtmWb190oRyVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387007574845-djoumac0bj10hsvsr30iando7uhrqlmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
